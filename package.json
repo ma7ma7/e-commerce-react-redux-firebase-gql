@@ -35,7 +35,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "homepage": "https://ma7ma7.github.io/e-commerce-react-redux-firebase-gql/public/index.html"
-
+    "homepage": "https://ma7ma7.github.io/e-commerce-react-redux-firebase-gql/build/index.html"
   }
 }
